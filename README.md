@@ -1,3 +1,3 @@
-# Project List in repo
-    # NLP Project: This project about text segmentation with pyspark
+# Project List in Repo
+    1. NLP Project: This project about text segmentation with pyspark
     
